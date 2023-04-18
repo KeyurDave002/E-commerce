@@ -1,0 +1,75 @@
+{
+    "Users": [
+        {
+            "Users_id": 1,
+            "name": "Ram Gupta",
+            "email": "ramgupta@gmail.com",
+            "address1": {
+                "street": "A-102,Kulas Light",
+                "address2": {
+                    "city": "Baruch",
+                    "state": "Gujarat",
+                    "pincode": "395001"
+                }
+            },
+            "phone": "+91 1234567890"
+        },
+        {
+            "Users_id": 2,
+            "name": "Rohan Kumar",
+            "email": "rohankumar@gmail.com",
+            "address1": {
+                "street": "B-105,Amidhara Apparment",
+                "address2": {
+                    "city": "Ankleshwar",
+                    "state": "Gujarat",
+                    "pincode": "395010"
+                }
+            },
+            "phone": "+91 2345678901"
+        },
+        {
+            "Users_id": 3,
+            "name": "Laksh Parmar",
+            "email": "",
+            "address1": {
+                "street": "A-10,Tirupati Parck Socity",
+                "address2": {
+                    "city": "Surat",
+                    "state": "Gujarat",
+                    "pincode": "395005"
+                }
+            },
+            "phone": "+91 3456789012"
+        },
+        {
+            "Users_id": 4,
+            "name": "Hardik Patel",
+            "email": "Sincere@april.biz",
+            "address1": {
+                "street": "D-5,Borivali",
+                "address2": {
+                    "city": "Moubai",
+                    "state": "Maharatra",
+                    "pincode": "425006"
+                }
+            },
+            
+            "phone": "+91 4567890123"
+        },
+        {
+            "Users_id": 5,
+            "name": "Prakash Sharma",
+            "email": "Sincere@april.biz",
+            "address1": {
+                "street": "E-101,SundarVan apparment",
+                "address2": {
+                    "city": "Ahmadabad",
+                    "state": "Gujarat",
+                    "pincode": "382721"
+                }
+            },
+            "phone": "+91 5678901234"
+        }
+    ]
+}

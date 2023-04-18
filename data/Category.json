@@ -1,0 +1,22 @@
+[
+    {
+        "category_Id":"C-1",
+        "category_name":"Smartphones"
+    },
+    {
+        "category_Id":"C-1",
+        "category_name":"Electronice"
+    },
+    {
+        "category_Id":"C-1",
+        "category_name":"Cloths"
+    },
+    {
+        "category_Id":"C-1",
+        "category_name":"Home Decored"
+    },
+    {
+        "category_Id":"C-1",
+        "category_name":"Foot Wear"
+    }
+]

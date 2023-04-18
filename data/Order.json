@@ -1,0 +1,23 @@
+{ 
+    "order": [ 
+        { 
+            "order_id": "O-1", 
+            "product_id": "P-1", 
+            "User_id": "U-1", 
+            "price": 50000, 
+            "quantity": 2, 
+            "orderDate": "05/05/2023", 
+            "deliveryDate": "08/05/2023", 
+            "status": "Fulfilled", 
+            "address1": { 
+                "street": "A-102,Kulas Light", 
+                "address2": { 
+                    "city": "Bharuch", 
+                    "state": "Gujarat", 
+                    "pincode": "395001" 
+                } 
+            }, 
+            "tax": 18 
+        } 
+    ] 
+}
